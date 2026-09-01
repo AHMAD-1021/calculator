@@ -2,7 +2,7 @@
       import{useEffect} from "react";
       import "./App.css";
      
-
+      // Calcutor app
       export default function App(){
         
         const [input, setInput] = useState("");
