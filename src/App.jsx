@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useEffect } from "react";
 import { numbers } from "./lib/numbers.js";
+import { operators } from "./lib/operator.js";
 import "./App.css";
 
 // Calcutor app
