@@ -13,7 +13,9 @@
           localStorage.setItem("history", JSON.stringify(history));
         }, [history]);
         
-        
+        function addTwoNumbers(number1, number2) {
+          return number1 + number2;
+        }
         
         //handleclick
         const handleClick = (value) => { setInput((text) => text + value); };
