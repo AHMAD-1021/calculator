@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useEffect } from "react";
+import { numbers } from "./lib/numbers.js";
 import "./App.css";
 
 // Calcutor app
